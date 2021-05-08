@@ -1,0 +1,127 @@
+
+body{
+  font-family: "Montserrat-black";
+}
+#title{
+  background-color: #ff4c68;
+  color: white;
+  font-weight: bolder;
+}
+#features{
+  background-color: white;
+  text-align: center;
+  position: relative;
+  z-index: 1;
+  margin-top: 0;
+  padding: 80px 0;
+}
+#testimonials{
+  text-align: center;
+  background-color: #ff4c68;
+  font-family: "Montserrat";
+  font-weight: bold;
+  color: white;
+}
+#press{
+  background-color: #ff4c68;
+  padding:20px;
+    text-align: center;
+}
+#pricing{
+  background-color: #5f7a7a;
+ padding: 50px;
+ font-family: "Montserrat-Black";
+}
+#cta{
+  background-color: #ff4c68;
+  text-align: center;
+  color: white;
+}
+h1{
+    font-family: 'Montserrat-Black';
+    font-size: 3rem;
+    line-height: 1.5;
+}
+h2{
+  font-family: "Montserrat-bold";
+  font-size: 3rem;
+  line-height: 1.5;
+}
+h3{
+  font-family: "Montserrat-bold";
+  font-size: 3rem;
+  line-height: 1.5;
+}
+p{
+  color: white;
+  font-style: bolder;
+}
+.nav-class{
+  position: fixed;
+  width: 100%;
+  z-index: 3;
+}
+.title-image{
+  width: 50%;
+  transform: rotate(20deg) translateY(100px) translateX(100px);
+  position: relative;
+}
+.navbar-brand{
+  font-family: 'Ubuntu';
+  font-weight : bold;
+}
+.nav-item{
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.download-btn{
+  margin: 5px 3px 0 2px;
+  padding: 10px;
+}
+.far{
+  color: #fa5056;
+  font-size: 5rem;
+  padding-bottom: 20px;
+}
+.fa-bullseye{
+  color: #fa5056;
+  font-size: 5rem;
+  padding-bottom: 20px;
+}
+.far:hover{
+  color: red;
+}
+.fa-bullseye:hover{
+    color: red;
+}
+.testimonial-image{
+ margin-left: 30px;
+ padding: 20px 0;
+ border-radius: 100%;
+}
+.press-image{
+    padding: 20px;
+    width: 15%;
+}
+.carousel-item{
+  padding: 20px 100px;
+}
+ .price-card{
+   color: white;
+   background-color: #5f614e;
+  text-align: center;
+  margin: 20px 30px;
+  border: 2px solid;
+}
+.card1:hover{
+  background-color: #662d0c;
+}
+.card2:hover{
+  background-color: #554b5e;
+}
+.card3:hover{
+  background-color: #66570c;
+}
+.fab,.fas{
+  padding: 5px;
+}
